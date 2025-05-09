@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Hangi sayı seriyi tamamlar? 2, 4, 8, 16, ?",
+            "options": ["24", "28", "32", "36"],
+            "correct_answer": 2,
+            "category": "numeric"
+        },
+        {
+            "id": 2,
+            "question": "ELMA kelimesinin harfleri karıştırıldığında hangi kelime oluşmaz?",
+            "options": ["MEAL", "MALE", "LAME", "MELA"],
+            "correct_answer": 3,
+            "category": "verbal"
+        },
+        {
+            "id": 3,
+            "question": "9876 + 1234 = ?",
+            "options": ["10110", "11110", "11010", "10010"],
+            "correct_answer": 0,
+            "category": "numeric"
+        }
+    ]
+} 
